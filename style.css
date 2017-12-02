@@ -1,0 +1,218 @@
+.LI0::before {
+	font-weight: bold;
+    content: "Aus SAMEN";
+}
+
+.LI0::after {
+    content: " selbst gezogen";
+}
+
+.LI---GRÖßE::before {
+    content: "Kaktus mit den Maßen ohne Stacheln:";
+}
+.LI---IsMUTTERPFLANZEGezeigt::before{
+	font-weight: bold;
+	content: "Fotos mit Blüten sind die Mutterpflanzen, die nicht verkauft werden (!!!)";
+}
+.LI---IsMUTTERPFLANZEGezeigt::after{
+	content: " und von denen die Samen stammen";
+}
+
+.LI---WINTERHART-BIS::before {
+    content: "Der angebotene Kaktus ist absolut winterhart bis";
+}
+
+.LI---IsPfeilGEZEIGTERKaktus::before{
+	content: "Sie erhalten genau den";	
+}
+
+.LI---IsPfeilGEZEIGTERKaktus::after{
+	font-weight: bold;
+	content: " mit dem Pfeil gekennzeichneten Kaktus";
+}
+
+.LI---IsEinerVonVielenGezeigten::before{
+	font-weight: bold;
+	content: " Sie bekommen GENAU EINEN der auf dem Bild abgebildeten Kakteen"
+}
+
+.LI---IsEinerVonVielenGezeigten::after{
+	content: " der oben benannten Größe"
+}
+
+.LI---IsNurÄhnlich::before{
+	font-weight: bold;
+	content: "Sie erhalten GENAU EINEN zu den gezeigten Kakteen ähnlichen Kaktus"
+}
+
+.LI---IsNurÄhnlich::after{
+	
+	content: "in der oben genannten Größe. Dieser muss NICHT auf dem Bild zu sehen sein (Bild dient lediglich als Vorschau)"
+}
+
+.LI---IsGanzeZUCHT::after{
+	content: "Bild zeigt die ganze Zucht";
+}
+
+.LI-ALTER::before{
+	content: "Alter: "
+}
+.LI2::after {
+    content: "sehr gleichmäßige und schöne Form";
+}
+
+.LI3::before {
+	font-weight: bold;
+    content: "Die Maße sind in der Regel beim Kauf im Herbst/Winter um 15-25% kleiner";
+}
+
+.LI3::after {
+    content: " als die angegebenen Maße - Das liegt daran, dass die Kakteen bei Kälte Wasser aus ihren Zellen drücken um sich gegen das Einfrieren zu schützen. Im Frühjahr finden die Kakteen dann wieder schnell zur angegebenen Größe zurück.";
+}
+
+.LI4::before {
+    content: "Versand erfolgt OHNE Topf und Erde, nur mit Wurzeln als Warensendung. Keine Sorge er kommt auch ohne Erde heil an :)...  ";
+}
+.LI4::after {
+	font-weight: bold;
+    content: "Aufpreis für Versand mit Topf und Erde: 2€";
+}
+
+.LI5::after{
+	content: "falls Sie Interesse an weiteren Exemplaren von winterharten Kakteen haben: Kontaktieren Sie mich bitte";
+}
+.LI6::after{
+	content: "wie bei allen winterharten Kakteen empfehle ich einen Regenschutz im Winter, sowie ein gut durchlässiges Granulat und eine Drainage";
+}
+.LI7::before{
+	content: "Und nun, da Bilder oft mehr sagen als tausend Worte, beachten sie bitte die";
+}
+
+.LI7::after{
+	font-weight: bold;
+	content: "Artikelbilder";
+}
+
+.linkespalte::before{
+	content: "Hallo liebe Ebayer, \A heute verkaufe ich aus eigener Zucht:";
+	white-space: pre;
+}
+
+body {
+    color: #2c352e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+ 
+}
+
+.ObererBanner {
+  width: 78%;
+  height: 400px;
+
+  background-image: url(https://up.picr.de/30903621yo.jpg),
+      url(https://up.picr.de/30903621yo.jpg),
+	  url(https://up.picr.de/30903621yo.jpg);
+  background-repeat: no-repeat,
+      no-repeat,
+	  no-repeat;
+  background-position: 0 10,
+      1112 10,
+	  2224 10;;
+  font-family: 'Kalam', cursive, 
+      'Kalam', cursive;	  
+}
+
+
+.bannerMirror {
+	background-image: url,
+						url(https://up.picr.de/30903621yo.jpg); 
+	margin-bottom: 50px,
+				50px;
+    content: '123',
+			 '12354354';
+    display: block,
+			 block;
+    position: absolute,
+			  relative;
+    width: 85%;
+    height: 200px;
+      
+    background-repeat: no-repeat,
+					   repeat;
+}
+
+
+.linkespalte {
+    float:left;
+    margin-top: 120px;
+    margin-left: 50px;
+    color: white;
+    font-size: 30px;
+}
+.rechtespalte {
+    margin-left: 600px;
+}
+.kaktusbild {
+    border-style: solid;
+    border-color: #d0edd4;
+    border-width: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 20px black;
+}
+.greybackground {
+    background-color: #d0edd4;
+    width: 98%;
+	margin-top: -235px;
+	margin-bottom: -25px
+}
+.kasten {
+    background-color: #2c352e;
+}
+.kaktusbild{
+	HEIGHT: 328px; 
+	WIDTH: 556px;
+}
+.P---beschreibung {
+    font-size: 20px;
+    margin-top: -40px;
+}
+.P---kaktusname {
+    font-family: 'Kalam', cursive;
+    font-size: 50px;
+}
+ul {
+    line-height: 1.4;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+li {
+    margin-top: 20px;
+}
+.letzterkasten {
+    background-color: #72c87e;
+    width: 98%;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 35px;
+    padding-bottom: 5px;
+}
+
+.letzterkasten::before{
+	content: "VIEL SPASS BEIM BIETEN: 3..2..1.. DEINS!!!";
+}
+
+.letzterkasten::after{
+	content: "Achtung: Der Versand setzt sich aus den Versandkosten/Aufwand des Verpackens und Versendens zusammen und liegt deshalb i.A. oberhalb der Portokosten. Sollten sie damit nicht einverstanden sein: BIETEN SIE NICHT!";
+}
+
+.achtung {
+    font-size: 30px;
+}
+.kaktusleiste {
+    background-image: url(https://up.picr.de/30903622uy.jpg);
+    background-repeat: repeat-x-high;
+    height: 70px;
+	width: 98%;
+	margin-bottom: -20px
+}
