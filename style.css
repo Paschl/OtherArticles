@@ -8,7 +8,7 @@
 }
 
 .LI---GRÖßE::before {
-    content: "Kaktus mit den Maßen ohne Stacheln:";
+    content: "Kaktus mit den Maßen ohne Stacheln: ";
 }
 .LI---IsMUTTERPFLANZEGezeigt::before{
 	font-weight: bold;
@@ -79,13 +79,13 @@
 }
 
 .LI5::after{
-	content: "falls Sie Interesse an weiteren Exemplaren von winterharten Kakteen haben: Kontaktieren Sie mich bitte";
+	content: "Falls Sie Interesse an weiteren Exemplaren von winterharten Kakteen haben: Kontaktieren Sie mich bitte";
 }
 .LI6::after{
-	content: "wie bei allen winterharten Kakteen empfehle ich einen Regenschutz im Winter, sowie ein gut durchlässiges Granulat und eine Drainage";
+	content: "Wie bei allen winterharten Kakteen empfehle ich einen Regenschutz im Winter, sowie ein gut durchlässiges Granulat und eine Drainage";
 }
 .LI7::before{
-	content: "Und nun, da Bilder oft mehr sagen als tausend Worte, beachten sie bitte die";
+	content: "Und nun, da Bilder oft mehr sagen als tausend Worte, beachten sie bitte die ";
 }
 
 .LI7::after{
