@@ -203,7 +203,7 @@ li {
 }
 
 .letzterkasten::after{
-	content: "Achtung: Der Versand setzt sich aus den Versandkosten/Aufwand des Verpackens und Versendens zusammen und liegt deshalb i.A. oberhalb der Portokosten. Sollten sie damit nicht einverstanden sein: BIETEN SIE NICHT!";
+	content: "Achtung: Der Versand setzt sich aus den Versandkosten/Aufwand des Verpackens und Versendens zusammen und liegt deshalb i.A. oberhalb der Portokosten. Beim Kauf mehrerer Artikel berechnen sich die Verandkosten wie folgt: Die Versandkosten des teuersten Artikels + 33% der Versandkosten jedes zusätzlichen Artikels. Sollten sie damit nicht einverstanden sein: BIETEN SIE NICHT!";
 }
 
 .achtung {
