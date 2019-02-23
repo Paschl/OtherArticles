@@ -40,12 +40,12 @@
 	content: " der oben benannten Größe"
 }
 
-.LI---IsNurÄhnlich::before{
+.LI---IsNurAehnlich::before{
 	font-weight: bold;
 	content: "Sie erhalten GENAU EINEN zu den gezeigten Kakteen ähnlichen Kaktus"
 }
 
-.LI---IsNurÄhnlich::after{
+.LI---IsNurAehnlich::after{
 	
 	content: "in der oben genannten Größe. Dieser muss NICHT auf dem Bild zu sehen sein (Bild dient lediglich als Vorschau)"
 }
