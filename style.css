@@ -63,11 +63,11 @@
 
 .LI3::before {
 	font-weight: bold;
-    content: "Wir wünschen Ihnen eine freudige Früjahrssaison. Ab jetzt startet die ideale Zeit Kakteen zu kaufen,"; /* WINTERVERSION: Die Maße sind in der Regel beim Kauf im Herbst/Winter um 15-25% kleiner */
+    content: "Wir wünschen Ihnen eine freudige Frühjahrssaison. "; /* WINTERVERSION: Die Maße sind in der Regel beim Kauf im Herbst/Winter um 15-25% kleiner */
 }
 
 .LI3::after {
-    content: " da im Frühjahr ein ideales Anwurzeln im eigenen Beet erfolgt."; /* WINTERVERSION: als die angegebenen Maße - Das liegt daran, dass die Kakteen bei Kälte Wasser aus ihren Zellen drücken um sich gegen das Einfrieren zu schützen. Im Frühjahr finden die Kakteen dann wieder schnell zur angegebenen Größe zurück.*/
+    content: "Ab jetzt startet die ideale Zeit um ihr Kakteenbeet zu erweitern, da im Frühjahr ein ideales Anwurzeln im eigenen Garten erfolgt."; /* WINTERVERSION: als die angegebenen Maße - Das liegt daran, dass die Kakteen bei Kälte Wasser aus ihren Zellen drücken um sich gegen das Einfrieren zu schützen. Im Frühjahr finden die Kakteen dann wieder schnell zur angegebenen Größe zurück.*/
 }
 
 .LI4::before {
