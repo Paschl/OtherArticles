@@ -22,6 +22,10 @@
     content: "Der angebotene Kaktus ist absolut winterhart bis: ";
 }
 
+.LI---WINTERHARTSamen-BIS::before {
+    content: "Die Kakteen, welche aus den angebotenen Samen wachsen, sind absolut winterhart bis: ";
+}
+
 .LI---IsPfeilGEZEIGTERKaktus::before{
 	content: "Sie erhalten genau den";	
 }
