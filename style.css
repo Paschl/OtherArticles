@@ -84,6 +84,9 @@
 .LI6::after{
 	content: "Wie bei allen winterharten Kakteen empfehle ich einen Regenschutz im Winter, sowie ein gut durchlässiges Granulat und eine Drainage";
 }
+.LI6NichtWinterhart::after{
+	content: "Wie bei allen Kakteen empfehle ich einen Regenschutz, sowie ein gut durchlässiges Granulat und eine Drainage";
+}
 .LI7::before{
 	content: "Und nun, da Bilder oft mehr sagen als tausend Worte, beachten sie bitte die ";
 }
