@@ -101,7 +101,7 @@
 }
 
 .linkespalte::before{
-	content: "Hallo liebe Ebayer, \A heute verkaufe ich aus eigener Zucht:";
+	content: "Hallo liebe Ebayer, \A wir bieten euch:";
 	white-space: pre;
 }
 
