@@ -205,12 +205,12 @@ li {
     padding-bottom: 5px;
 }
 
-.letzterkasten::before{
+.letzterkasten::after{
 	content: "VIEL SPASS BEIM BIETEN: 3..2..1.. DEINS!!!";
 }
 
-.letzterkasten::after{
-	content: "Kurzum: Unsere Boxen bieten eine<br> <li> luftdichte <\li><br><li> praktisch <\li> preiswerte langlebige platzsparende Lagerung ihrer FDM-Filamentrollen";
+.letzterkasten::before{
+	content: "Kurzum: Unsere Boxen bieten eine<br> <li> luftdichte <\li><br><li> praktisch <\li> preiswerte langlebige platzsparende Lagerung ihrer FDM-Filamentrollen <br> Lieferumfang: <br> Trockenbox und je nach Auswahl mit/ohne Silika-Gel-Behälter. Filament selbst wird nicht mitgeliefert - abgebildetes Filament dient nur der Darstellung der Verwendungsmöglichkeiten";
 }
 
 .achtung {
