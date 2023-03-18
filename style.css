@@ -206,6 +206,8 @@ li {
 }
 
 .letzterkasten::after{
+	text-align: center;
+	font-size: 50px;
 	content: "VIEL SPASS BEIM BIETEN: 3..2..1.. DEINS!!!";
 }
 
