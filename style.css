@@ -196,21 +196,35 @@ ul {
 li {
     margin-top: 20px;
 }
-.letzterkasten {
+
+
+.vorletzterkasten {
     background-color: #72c87e;
     width: 98%;
     text-align: left;
     font-size: 25px;
-    margin-top: 120px;
-    margin-left: 50px;
+}
+.letzterkasten {
+    background-color: #72c87e;
+    width: 98%;
+    text-align: center;
+    font-size: 25px;
+padding-left: 70px;
 }
 
 .letzterkasten::after{
 	text-align: center;
 	font-size: 50px;
 	content: "VIEL SPASS BEIM BIETEN: 3..2..1.. DEINS!!!";
-}
 
+}
+.leerletzterkasten {
+    background-color: #72c87e;
+    width: 98%;
+    text-align: left;
+    font-size: 25px;
+
+}
 
 .achtung {
     font-size: 30px;
